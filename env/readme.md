@@ -17,3 +17,7 @@ __________________________________________
 
 3. Dependencies-
 Docker Hub, pystan, fastapi, uvicorn, gunicorn, fbprophet, joblib, pandas, plotly, yfinance
+
+__________________________________________
+
+This can be tried using stock symbols listed on NASDAQ. To use the API, remove the "string" with symbols like MSFT, AAPL, GOOGL etc.
