@@ -1,4 +1,4 @@
-This can be tried using stock symbols listed on NASDAQ. To use the API, remove the "string" with symbols like MSFT, AAPL, GOOGL etc.
+## This can be tried using stock symbols listed on NASDAQ. To use the API, remove the "string" with symbols like MSFT, AAPL, GOOGL etc.
 
 1. How to use the code?
 
@@ -20,4 +20,3 @@ Docker Hub, pystan, fastapi, uvicorn, gunicorn, fbprophet, joblib, pandas, plotl
 
 __________________________________________
 
-This can be tried using stock symbols listed on NASDAQ. To use the API, remove the "string" with symbols like MSFT, AAPL, GOOGL etc.
